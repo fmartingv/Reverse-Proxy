@@ -13,4 +13,4 @@ Con Nginx vamos a hacer que podamos ver nuestra pagina web.
 
   5. Accedemos con el nombre que le pusimos
      
-    ![image](https://github.com/fmartingv/Reverse-Proxy/assets/120713266/d8e08013-a411-4efd-a741-f40e578ff82c)
+  ![image](https://github.com/fmartingv/Reverse-Proxy/assets/120713266/d8e08013-a411-4efd-a741-f40e578ff82c)
